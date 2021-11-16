@@ -24,9 +24,13 @@ body {
 	font-family: 'Malgun Gothic', 'Arial';
 	}
 	
+.back-icon{
+	margin:15px;
+}
+	
 .main-icon{
 	text-align : center;
-	padding-top : 10%; 
+	padding-top : 5%; 
 }
 
 #signup-title{
@@ -57,7 +61,7 @@ body {
 .page-body { 
 	float: left;
 	width: 100%;
-	padding-top: 5%; 
+	padding-top:10px;
 	}
 	
 	

@@ -15,6 +15,16 @@
 	margin: 10 auto;
 }
 
+.add-friends #fid{
+	float:left;
+	width:80%;
+}
+
+.add-friends #add-button{
+	float:left;
+	width:20%;
+}
+
 feed {
 	float: left;
 	width: 100%;
